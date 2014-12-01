@@ -2,14 +2,14 @@
 		 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.echo-central.esb</groupId>
-	<artifactId>esb.component</artifactId>
+	<artifactId>esb-dependencies</artifactId>
 	<packaging>pom</packaging>
 	<version>0.1.0-SNAPSHOT</version>
-	<name>ESB Components</name>
-	<description>ESB Components</description>
+	<name>ESB Dependencies</name>
+	<description>ESB Dependencies</description>
 	
 	<build>
-        <finalName>esb-components</finalName>
+        <finalName>esb-dependencies</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
