@@ -126,12 +126,17 @@
         <dependency>
             <groupId>uk.co.revsys.esb</groupId>
             <artifactId>esb-utils</artifactId>
-            <version>0.1.0</version>
+            <version>0.1.1</version>
+        </dependency>
+        <dependency>
+            <groupId>uk.co.revsys.esb</groupId>
+            <artifactId>esb-service-email</artifactId>
+            <version>0.1.1</version>
         </dependency>
         <dependency>
             <groupId>uk.co.revsys.esb</groupId>
             <artifactId>esb-web-listener</artifactId>
-            <version>0.1.0</version>
+            <version>0.1.1</version>
         </dependency>
         <dependency>
             <groupId>uk.co.revsys.jsont</groupId>
@@ -141,6 +146,31 @@
         <dependency>
             <groupId>uk.co.revsys.jsont</groupId>
             <artifactId>jsont-camel</artifactId>
+            <version>0.1.0</version>
+        </dependency>
+        <dependency>
+            <groupId>uk.co.revsys.objectology</groupId>
+            <artifactId>objectology-camel</artifactId>
+            <version>0.1.1</version>
+        </dependency>
+        <dependency>
+            <groupId>uk.co.revsys.oddball</groupId>
+            <artifactId>oddball-camel</artifactId>
+            <version>0.1.1</version>
+        </dependency>
+        <dependency>
+            <groupId>uk.co.revsys.user-manager</groupId>
+            <artifactId>user-manager-camel</artifactId>
+            <version>0.1.1</version>
+        </dependency>
+        <dependency>
+            <groupId>uk.co.revsys.help-repository</groupId>
+            <artifactId>help-repository-camel</artifactId>
+            <version>0.1.0-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>uk.co.revsys.stripe</groupId>
+            <artifactId>stripe-camel</artifactId>
             <version>0.1.0</version>
         </dependency>
 	</dependencies>
