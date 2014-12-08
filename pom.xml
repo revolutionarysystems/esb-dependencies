@@ -150,7 +150,7 @@
         <dependency>
             <groupId>uk.co.revsys.objectology</groupId>
             <artifactId>objectology-camel</artifactId>
-            <version>0.1.1</version>
+            <version>0.2.0-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>uk.co.revsys.oddball</groupId>
