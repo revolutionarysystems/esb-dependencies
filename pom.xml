@@ -177,6 +177,11 @@
             <artifactId>stripe-camel</artifactId>
             <version>0.1.0</version>
         </dependency>
+        <dependency>
+            <groupId>uk.co.revsys.help-repository</groupId>
+            <artifactId>help-repository-camel</artifactId>
+            <version>0.1.0-SNAPSHOT</version>
+        </dependency>
 	</dependencies>
 
 
