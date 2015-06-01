@@ -118,7 +118,12 @@
    
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <revsys.esb.version>0.2.0-SNAPSHOT</revsys.esb.version>
+        <revsys.esb.version>0.2.0</revsys.esb.version>
+        <revsys.oddball.version>0.2.0</revsys.oddball.version>
+        <revsys.objectology.version>0.2.0</revsys.objectology.version>
+        <revsys.user.manager.version>0.2.1</revsys.user.manager.version>
+        <revsys.jsont.version>0.1.0</revsys.jsont.version>
+        <revsys.stripe.version>0.1.0</revsys.stripe.version>
 	</properties>
 
 	<dependencies>
@@ -140,48 +145,48 @@
         <dependency>
             <groupId>uk.co.revsys.jsont</groupId>
             <artifactId>jsont-osgi</artifactId>
-            <version>0.1.0</version>
+            <version>${revsys.jsont.version}</version>
         </dependency>
         <dependency>
             <groupId>uk.co.revsys.jsont</groupId>
             <artifactId>jsont-camel</artifactId>
-            <version>0.1.0</version>
+            <version>${revsys.jsont.version}</version>
         </dependency>
         <dependency>
             <groupId>uk.co.revsys.objectology</groupId>
             <artifactId>objectology-camel</artifactId>
-            <version>0.2.0-SNAPSHOT</version>
+            <version>${revsys.objectology.version}</version>
         </dependency>
         <dependency>
             <groupId>uk.co.revsys.oddball</groupId>
             <artifactId>oddball-camel</artifactId>
-            <version>0.2.0-SNAPSHOT</version>
+            <version>${revsys.oddball.version}</version>
         </dependency>
         <dependency>
             <groupId>uk.co.revsys.oddball</groupId>
             <artifactId>oddball-osgi</artifactId>
-            <version>0.2.0-SNAPSHOT</version>
+            <version>${revsys.oddball.version}</version>
         </dependency>
         <dependency>
             <groupId>uk.co.revsys.user-manager</groupId>
             <artifactId>user-manager-camel</artifactId>
-            <version>0.2.0-SNAPSHOT</version>
+            <version>${revsys.user.manager.version}</version>
         </dependency>
         <dependency>
             <groupId>uk.co.revsys.user-manager</groupId>
             <artifactId>user-manager-client-osgi</artifactId>
-            <version>0.2.0-SNAPSHOT</version>
+            <version>${revsys.user.manager.version}</version>
         </dependency>
         <dependency>
             <groupId>uk.co.revsys.stripe</groupId>
             <artifactId>stripe-camel</artifactId>
-            <version>0.1.0</version>
+            <version>${revsys.stripe.version}</version>
         </dependency>
-        <dependency>
+        <!--dependency>
             <groupId>uk.co.revsys.help-repository</groupId>
             <artifactId>help-repository-camel</artifactId>
             <version>0.1.0-SNAPSHOT</version>
-        </dependency>
+        </dependency-->
 	</dependencies>
 
 
