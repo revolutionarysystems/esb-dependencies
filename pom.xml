@@ -123,7 +123,7 @@
         <revsys.objectology.version>0.2.0</revsys.objectology.version>
         <revsys.user.manager.version>0.2.1</revsys.user.manager.version>
         <revsys.jsont.version>0.1.0</revsys.jsont.version>
-        <revsys.stripe.version>0.1.0</revsys.stripe.version>
+        <revsys.stripe.version>0.2.0-SNAPSHOT</revsys.stripe.version>
 	</properties>
 
 	<dependencies>
