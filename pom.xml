@@ -118,10 +118,10 @@
    
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <revsys.esb.version>0.3.0-SNAPSHOT</revsys.esb.version>
+        <revsys.esb.version>0.2.1</revsys.esb.version>
         <revsys.oddball.version>0.2.0</revsys.oddball.version>
         <revsys.objectology.version>0.2.0</revsys.objectology.version>
-        <revsys.user.manager.version>0.3.0-SNAPSHOT</revsys.user.manager.version>
+        <revsys.user.manager.version>0.2.3</revsys.user.manager.version>
         <revsys.jsont.version>0.1.0</revsys.jsont.version>
         <revsys.stripe.version>0.1.2</revsys.stripe.version>
         <revsys.mailchimp.version>0.1.0</revsys.mailchimp.version>
